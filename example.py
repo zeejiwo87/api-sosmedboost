@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://localhost:1314/api/service"
+BASE_URL = "http://sosmedboost.com/api/service"
 
 def connect(payload: dict, endpoint: str):
     headers = {
