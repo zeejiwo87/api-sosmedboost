@@ -14,6 +14,10 @@ Dengan API ini, developer maupun pelaku bisnis bisa mengintegrasikan layanan **S
 
 ---
 
+#Base URL
+
+https://sosmedboost.com/api/service
+
 ## 📌 Endpoint yang Tersedia
 | Endpoint             | Deskripsi                                                                 |
 |----------------------|---------------------------------------------------------------------------|
